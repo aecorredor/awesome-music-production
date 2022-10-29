@@ -69,3 +69,8 @@ produce music.
 - Waves DeBreath
 - Waves Doubler
 - Waves Vocal Rider
+
+### Programming
+
+- [Creatig a VST Plugin in Rust](https://vaporsoft.net/creating-an-audio-plugin-with-rust-vst)
+- [RustAudio GitHub](https://github.com/RustAudio)
