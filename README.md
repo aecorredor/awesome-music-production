@@ -5,14 +5,13 @@ produce music.
 
 ### Equipment
 
-- Neumann TLM 103 Microphone (~$1,1195)
-- Shure SM7B Microphone (~$399)
-- UA Apollo Solo (~$499)
-- UA Apollo Twin (~$1,000)
-- UA Apollo X8P (~$3,600)
-- UAD Sound Card
-- Yamaha HS5
-- Yamaha HS8S
+- [Neumann TLM 103 Microphone](https://amzn.to/3WgU3jq)
+- [Shure SM7B Microphone](https://amzn.to/3TOjCXE)
+- [UA Apollo Solo](https://amzn.to/3WeOqSX)
+- [UA Apollo Twin](https://amzn.to/3TMhTBX)
+- [UA Apollo X8P](https://amzn.to/3DIIPgm)
+- [Yamaha HS5 Speaker](https://amzn.to/3SSJXCp)
+- [Yamaha HS8S Subwoofer](https://amzn.to/3DlLrQ8)
 
 ### Ableton Plugins
 
@@ -74,3 +73,8 @@ produce music.
 
 - [Creatig a VST Plugin in Rust](https://vaporsoft.net/creating-an-audio-plugin-with-rust-vst)
 - [RustAudio GitHub](https://github.com/RustAudio)
+
+
+#### Disclaimer
+
+This list uses Amazon Affiliate links to support its continous improvement. Please use them if you'll be buying anything from the list to show your support. Thanks!
