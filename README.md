@@ -5,6 +5,7 @@ produce music.
 
 ### Equipment
 
+- [iLok 3](https://amzn.to/3DGhpI2)
 - [Neumann TLM 103 Microphone](https://amzn.to/3WgU3jq)
 - [Shure SM7B Microphone](https://amzn.to/3TOjCXE)
 - [UA Apollo Solo](https://amzn.to/3WeOqSX)
@@ -17,23 +18,23 @@ produce music.
 
 - Ableton reverb (Included with Ableton)
 - Ableton utility (Included with Ableton)
-- CamelCrusher [FREE](https://www.audiopluginsforfree.com/camelcrusher/)
-- Denise Bite Harder (~$30)
-- Denise Noize 2 (~$40)
-- Denise The Sweeper (~$30)
-- Diva Synth (~$180)
-- FabFilter Pro-C 2 (~$170)
-- FabFilter Pro-DS (~$170)
-- FabFilter Pro-G (~$170)
-- FabFilter Pro-L 2 (~$170)
-- FabFilter Pro-MB (~$170)
-- FabFilter Pro-Q 3 (~$170)
-- FabFilter Timeless 3 (~$130)
-- FabFilter Volcano 3 (~$130) (All 8 previous Plugins for ~$800 with FX bundle)
-- Gullfoss
-- Isotope Vocal Doubler
-- iLok 3 (~$55)
-- Laser Sweetsonics (sidechaining)
+- [CamelCrusher](https://www.audiopluginsforfree.com/camelcrusher/)
+- [Denise Bite Harder](https://www.denise.io/store/denise/BiteHarder)
+- [Denise Noize 2](https://www.denise.io/store/denise/Noize2)
+- [Denise The Sweeper](https://www.denise.io/store/denise/TheSweeper)
+- [u-he Diva Synth](https://u-he.com/products/diva/)
+- [FabFilter Pro-C 2](https://www.fabfilter.com/shop/pro-c-2-compressor-plug-in)
+- [FabFilter Pro-DS](https://www.fabfilter.com/shop/pro-ds-de-esser-plug-in)
+- [FabFilter Pro-G](https://www.fabfilter.com/shop/pro-g-gate-expander-plug-in)
+- [FabFilter Pro-L 2](https://www.fabfilter.com/shop/pro-l-2-limiter-plug-in)
+- [FabFilter Pro-MB](https://www.fabfilter.com/shop/pro-mb-multiband-compressor-plug-in)
+- [FabFilter Pro-Q 3](https://www.fabfilter.com/shop/pro-q-3-equalizer-plug-in)
+- [FabFilter Timeless 3](https://www.fabfilter.com/shop/timeless-3-delay-plug-in)
+- [FabFilter Volcano 3](https://www.fabfilter.com/shop/volcano-3-filter-plug-in) 
+- [FabFilter FX Bundle](https://www.fabfilter.com/shop/fx-bundle)
+- [FAW SubLab](https://www.futureaudioworkshop.com/sublab/)
+- [Gullfoss](https://www.soundtheory.com/home)
+- [iZOTOPE Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html)
 - Leapwing DynOne (~$200)
 - Lexicon
 - LowEnder
@@ -58,16 +59,18 @@ produce music.
 - SoundToys Decapitator
 - StandardClip
 - Steinberg Grungelizer
-- SubLab
-- Trackspacer
-- UAD Maag
-- UAD Pultec
-- Utility Plugin (is this an Ableton native thing?)
-- Valhalla Delay
-- Waves Center
-- Waves DeBreath
-- Waves Doubler
-- Waves Vocal Rider
+- [Sweetsonics Laser](https://www.sweetsonics.com/plugins) 
+- [UAD Maag](https://www.uaudio.com/uad-plugins/equalizers/maag-eq4.html)
+- [UAD Pultec](https://www.uaudio.com/uad-plugins/equalizers/pultec-passive-eq-collection.html)
+- [Utility](https://www.vennaudio.com/utility/)
+- [Valhalla Delay](https://valhalladsp.com/shop/delay/valhalladelay/)
+- [Waves Center](https://www.waves.com/plugins/center)
+- [Waves DeBreath](https://www.waves.com/plugins/debreath#removing-vocal-breaths-with-debreath)
+- [Waves Doubler](https://www.waves.com/plugins/doubler)
+- [Waves Vocal Rider](https://www.waves.com/plugins/vocal-rider#how-to-level-vocals-perfectly-in-3-clicks)
+- [Wavesfactory Cassette](https://www.wavesfactory.com/audio-plugins/cassette/)
+- [Wavesfactory Trackspacer](https://www.wavesfactory.com/audio-plugins/trackspacer/)
+
 
 ### Programming
 
