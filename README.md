@@ -1,6 +1,6 @@
 # awesome-music-production
 
-Non-exhaustive list of equipment and software I've seen used to 
+Non-exhaustive list of equipment and software I've seen used to
 produce music.
 
 ### Equipment
@@ -14,15 +14,15 @@ produce music.
 - [Yamaha HS5 Speaker](https://amzn.to/3SSJXCp)
 - [Yamaha HS8S Subwoofer](https://amzn.to/3DlLrQ8)
 
-### Ableton Plugins
+### VST Plugins (For using in a DAW like Ableton)
 
-- Ableton reverb (Included with Ableton)
-- Ableton utility (Included with Ableton)
+- [Ableton Reverb](https://www.ableton.com/en/live/)
+- [Ableton Utility](https://www.ableton.com/en/live/)
 - [CamelCrusher](https://www.audiopluginsforfree.com/camelcrusher/)
 - [Denise Bite Harder](https://www.denise.io/store/denise/BiteHarder)
 - [Denise Noize 2](https://www.denise.io/store/denise/Noize2)
 - [Denise The Sweeper](https://www.denise.io/store/denise/TheSweeper)
-- [u-he Diva Synth](https://u-he.com/products/diva/)
+- [FabFilter FX Bundle](https://www.fabfilter.com/shop/fx-bundle)
 - [FabFilter Pro-C 2](https://www.fabfilter.com/shop/pro-c-2-compressor-plug-in)
 - [FabFilter Pro-DS](https://www.fabfilter.com/shop/pro-ds-de-esser-plug-in)
 - [FabFilter Pro-G](https://www.fabfilter.com/shop/pro-g-gate-expander-plug-in)
@@ -30,43 +30,41 @@ produce music.
 - [FabFilter Pro-MB](https://www.fabfilter.com/shop/pro-mb-multiband-compressor-plug-in)
 - [FabFilter Pro-Q 3](https://www.fabfilter.com/shop/pro-q-3-equalizer-plug-in)
 - [FabFilter Timeless 3](https://www.fabfilter.com/shop/timeless-3-delay-plug-in)
-- [FabFilter Volcano 3](https://www.fabfilter.com/shop/volcano-3-filter-plug-in) 
-- [FabFilter FX Bundle](https://www.fabfilter.com/shop/fx-bundle)
+- [FabFilter Volcano 3](https://www.fabfilter.com/shop/volcano-3-filter-plug-in)
 - [FAW SubLab](https://www.futureaudioworkshop.com/sublab/)
 - [Gullfoss](https://www.soundtheory.com/home)
-- [iZOTOPE Ozone Low End Focus](https://www.izotope.com/en/products/ozone/features/low-end-focus.html)
 - [iZOTOPE Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html)
+- [iZOTOPE Ozone Low End Focus](https://www.izotope.com/en/products/ozone/features/low-end-focus.html)
 - [iZOTOPE Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html)
 - [Leapwing DynOne](https://www.leapwingaudio.com/product/dynone/)
 - [Lexicon](https://lexiconpro.com/en/product_families/plugins)
 - [Native Instruments Raum](https://www.native-instruments.com/en/products/komplete/effects/raum/)
-- [reFUSE LowEnder](https://www.refusesoftware.com/lowender)
+- [oeksound Soothe2](https://oeksound.com/plugins/soothe2/)
 - [Ohm Force Ohmicide](https://www.ohmforce.com/ohmicide)
-- RBass
-- ShaperBox Reverse Verb
-- ShaperBox Vinyl
+- [reFUSE LowEnder](https://www.refusesoftware.com/lowender)
+- [ShapeBox 3](https://www.cableguys.com/shaperbox.html)
+- [SineVibes Blend](https://www.sinevibes.com/blend/)
+- [SineVibes Dipole](https://www.sinevibes.com/dipole/)
 - [SIR Audio Tools StandardCLIP](https://www.siraudiotools.com/StandardCLIP.php)
-- SineVibes Blend
-- SineVibes Dipole
-- Slate Digital eiosis e2DEESSER (~$70)
-- Slate Digital Mix Bus
-- Slate Digital Virtual Channel
-- Slate Digital Virtual Mix Rack
-- Slate Digital Virtual Tape Machine
-- Soothe2
-- SoundShifter
-- SoundToys Decapitator
+- [Slate Digital eiosis e2DEESSER](https://www.eiosis.com/e2deesser)
+- [Slate Digital Mixbus](https://slatedigital.com/virtual-console-collection/)
+- [Slate Digital Virtual Channel](https://slatedigital.com/virtual-console-collection/)
+- [Slate Digital Virtual Mix Rack](https://slatedigital.com/virtual-mix-rack/)
+- [Slate Digital Virtual Tape Machines](https://slatedigital.com/virtual-tape-machines/)
+- [Soundtoys Decapitator](https://www.soundtoys.com/product/decapitator/)
 - [Spectrasonics Omnisphere](https://www.spectrasonics.net/products/omnisphere/)
-- Steinberg Grungelizer
-- [Sweetsonics Laser](https://www.sweetsonics.com/plugins) 
+- [Sweetsonics Laser](https://www.sweetsonics.com/plugins)
+- [u-he Diva Synth](https://u-he.com/products/diva/)
 - [UAD Maag](https://www.uaudio.com/uad-plugins/equalizers/maag-eq4.html)
 - [UAD Pultec](https://www.uaudio.com/uad-plugins/equalizers/pultec-passive-eq-collection.html)
 - [Utility](https://www.vennaudio.com/utility/)
 - [Valhalla Delay](https://valhalladsp.com/shop/delay/valhalladelay/)
 - [Waves Center](https://www.waves.com/plugins/center)
 - [Waves DeBreath](https://www.waves.com/plugins/debreath#removing-vocal-breaths-with-debreath)
-- [Waves Monomod](https://www.waves.com/plugins/mondomod)
 - [Waves Doubler](https://www.waves.com/plugins/doubler)
+- [Waves Monomod](https://www.waves.com/plugins/mondomod)
+- [Waves RBass](https://www.waves.com/plugins/renaissance-bass#renaissance-quick-look-r-bass)
+- [Waves SoundShifter](https://www.waves.com/plugins/soundshifter#creating-dance-risers-and-mixing-different-bpms)
 - [Waves Vocal Rider](https://www.waves.com/plugins/vocal-rider#how-to-level-vocals-perfectly-in-3-clicks)
 - [Wavesfactory Cassette](https://www.wavesfactory.com/audio-plugins/cassette/)
 - [Wavesfactory Trackspacer](https://www.wavesfactory.com/audio-plugins/trackspacer/)
