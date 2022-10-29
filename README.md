@@ -34,19 +34,18 @@ produce music.
 - [FabFilter FX Bundle](https://www.fabfilter.com/shop/fx-bundle)
 - [FAW SubLab](https://www.futureaudioworkshop.com/sublab/)
 - [Gullfoss](https://www.soundtheory.com/home)
+- [iZOTOPE Ozone Low End Focus](https://www.izotope.com/en/products/ozone/features/low-end-focus.html)
+- [iZOTOPE Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html)
 - [iZOTOPE Vocal Doubler](https://www.izotope.com/en/products/vocal-doubler.html)
-- Leapwing DynOne (~$200)
-- Lexicon
-- LowEnder
-- Monomod
-- Ohmicide
-- Omnisphere
-- Ozone Imager
-- Ozone Low End Focus
-- Raum
+- [Leapwing DynOne](https://www.leapwingaudio.com/product/dynone/)
+- [Lexicon](https://lexiconpro.com/en/product_families/plugins)
+- [Native Instruments Raum](https://www.native-instruments.com/en/products/komplete/effects/raum/)
+- [reFUSE LowEnder](https://www.refusesoftware.com/lowender)
+- [Ohm Force Ohmicide](https://www.ohmforce.com/ohmicide)
 - RBass
 - ShaperBox Reverse Verb
 - ShaperBox Vinyl
+- [SIR Audio Tools StandardCLIP](https://www.siraudiotools.com/StandardCLIP.php)
 - SineVibes Blend
 - SineVibes Dipole
 - Slate Digital eiosis e2DEESSER (~$70)
@@ -57,7 +56,7 @@ produce music.
 - Soothe2
 - SoundShifter
 - SoundToys Decapitator
-- StandardClip
+- [Spectrasonics Omnisphere](https://www.spectrasonics.net/products/omnisphere/)
 - Steinberg Grungelizer
 - [Sweetsonics Laser](https://www.sweetsonics.com/plugins) 
 - [UAD Maag](https://www.uaudio.com/uad-plugins/equalizers/maag-eq4.html)
@@ -66,6 +65,7 @@ produce music.
 - [Valhalla Delay](https://valhalladsp.com/shop/delay/valhalladelay/)
 - [Waves Center](https://www.waves.com/plugins/center)
 - [Waves DeBreath](https://www.waves.com/plugins/debreath#removing-vocal-breaths-with-debreath)
+- [Waves Monomod](https://www.waves.com/plugins/mondomod)
 - [Waves Doubler](https://www.waves.com/plugins/doubler)
 - [Waves Vocal Rider](https://www.waves.com/plugins/vocal-rider#how-to-level-vocals-perfectly-in-3-clicks)
 - [Wavesfactory Cassette](https://www.wavesfactory.com/audio-plugins/cassette/)
