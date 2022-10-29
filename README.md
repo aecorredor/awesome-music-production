@@ -1,48 +1,41 @@
-# awesome-illangelo
+# awesome-music-production
 
-Wiki repo housing all things illangelo, especially notes from his mix with the
-masters course.
-
-Keep in mind that some of these names might have typos and I have to correct
-them as I try them on.
-
-## Mix With The Masters Notes
+Non-exhaustive list of equipment and software I've seen used to 
+produce music.
 
 ### Equipment
 
-- Neumann TLM 103
-- Shure SM7B
-- UA Apollo Arrow
-- UA Apollo Twin
-- UA Apollo X8P
+- Neumann TLM 103 Microphone (~$1,1195)
+- Shure SM7B Microphone (~$399)
+- UA Apollo Solo (~$499)
+- UA Apollo Twin (~$1,000)
+- UA Apollo X8P (~$3,600)
 - UAD Sound Card
 - Yamaha HS5
 - Yamaha HS8S
 
 ### Ableton Plugins
 
-- Ableton reverb (confirm this is correct)
-- Ableton utility (confirm this is correct)
-- CamelCrusher
-- Denise Bite
-- Denise Noize 2
-- Denise The Sweeper
-- Diva (synth)
-- Dynone Leapwing
-- Eiosis Deesser
-- FabFilter Pro C2
-- FabFilter Pro DS
-- FabFilter Pro G
-- FabFilter Pro L2
-- FabFilter Pro MB
-- FabFilter Pro Q3
-- FabFilter Timeless
-- FabFilter Volcano 2
-- Flanger
+- Ableton reverb (Included with Ableton)
+- Ableton utility (Included with Ableton)
+- CamelCrusher (Free at https://www.audiopluginsforfree.com/camelcrusher/)
+- Denise Bite Harder (~$30)
+- Denise Noize 2 (~$40)
+- Denise The Sweeper (~$30)
+- Diva Synth (~$180)
+- FabFilter Pro-C 2 (~$170)
+- FabFilter Pro-DS (~$170)
+- FabFilter Pro-G (~$170)
+- FabFilter Pro-L 2 (~$170)
+- FabFilter Pro-MB (~$170)
+- FabFilter Pro-Q 3 (~$170)
+- FabFilter Timeless 3 (~$130)
+- FabFilter Volcano 3 (~$130) (All 8 previous Plugins for ~$800 with FX bundle)
 - Gullfoss
 - Isotope Vocal Doubler
+- iLok 3 (~$55)
 - Laser Sweetsonics (sidechaining)
-- Leapwing Dynone
+- Leapwing DynOne (~$200)
 - Lexicon
 - LowEnder
 - Monomod
@@ -56,6 +49,7 @@ them as I try them on.
 - ShaperBox Vinyl
 - SineVibes Blend
 - SineVibes Dipole
+- Slate Digital eiosis e2DEESSER (~$70)
 - Slate Digital Mix Bus
 - Slate Digital Virtual Channel
 - Slate Digital Virtual Mix Rack
