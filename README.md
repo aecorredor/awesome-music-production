@@ -18,7 +18,7 @@ produce music.
 
 - Ableton reverb (Included with Ableton)
 - Ableton utility (Included with Ableton)
-- CamelCrusher (Free at https://www.audiopluginsforfree.com/camelcrusher/)
+- CamelCrusher [FREE](https://www.audiopluginsforfree.com/camelcrusher/)
 - Denise Bite Harder (~$30)
 - Denise Noize 2 (~$40)
 - Denise The Sweeper (~$30)
