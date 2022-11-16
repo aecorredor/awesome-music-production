@@ -53,6 +53,7 @@ produce music.
 - [Slate Digital Virtual Tape Machines](https://slatedigital.com/virtual-tape-machines/)
 - [Soundtoys Decapitator](https://www.soundtoys.com/product/decapitator/)
 - [Spectrasonics Omnisphere](https://www.spectrasonics.net/products/omnisphere/)
+- [Spitfire Audio LABS Synth Strings](https://labs.spitfireaudio.com/synth-strings)
 - [Sweetsonics Laser](https://www.sweetsonics.com/plugins)
 - [u-he Diva Synth](https://u-he.com/products/diva/)
 - [UAD Maag](https://www.uaudio.com/uad-plugins/equalizers/maag-eq4.html)
